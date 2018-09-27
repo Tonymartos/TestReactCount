@@ -1,2 +1,0 @@
-# TestReactCount
-Created with CodeSandbox

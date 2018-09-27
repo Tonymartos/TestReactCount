@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.count {
+  display: flex;
+  justify-content: center;
+}
+
+.count button {
+  padding: 0.5em;
+  padding-left: 1.2em;
+  padding-right: 1.2em;
+  border-radius: 0.2em;
+  background-color: aqua;
+}
